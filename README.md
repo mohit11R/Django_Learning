@@ -1,2 +1,2 @@
 # Django_Learning
-Learning Django 
+Learning Django: Target 1 week
