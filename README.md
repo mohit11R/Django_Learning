@@ -1,2 +1,2 @@
-# Django_Learning
+# Django_Learning : Backend Complete
 Learning Django: Target 1 week
